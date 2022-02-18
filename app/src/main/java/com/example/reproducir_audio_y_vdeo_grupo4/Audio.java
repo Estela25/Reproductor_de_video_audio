@@ -23,8 +23,8 @@ public class Audio extends AppCompatActivity implements View.OnClickListener {
         parar = (Button)findViewById(R.id.btDetener);
         mediaPlayer = MediaPlayer.create(this, R.raw.rave);
         
-        iniciar.SetOnClickListener(this);
-        parar.SetOnClickListener(this);
+        iniciar.setOnClickListener(this);
+        parar.setOnClickListener(this);
         
     }
 

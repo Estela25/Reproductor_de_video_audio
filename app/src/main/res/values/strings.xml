@@ -5,4 +5,6 @@
     <string name="parar">DETENER</string>
     <string name="iniciar">INICIAR</string>
     <string name="regresar">REGRESAR</string>
+    <string name="raudio">REPRODUCTOR DE AUDIO</string>
+    <string name="titulo2">AUDIO</string>
 </resources>

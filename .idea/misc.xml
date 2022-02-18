@@ -3,12 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Luis2/AndroidStudioProjects/Reproducir_Audio_y_Vdeo_grupo4/app/src/main/res/layout/activity_audio.xml" value="0.25" />
-        <entry key="..\:/Users/Luis2/AndroidStudioProjects/Reproducir_Audio_y_Vdeo_grupo4/app/src/main/res/layout/activity_camara.xml" value="0.24003623188405798" />
-        <entry key="..\:/Users/Luis2/AndroidStudioProjects/Reproducir_Audio_y_Vdeo_grupo4/app/src/main/res/layout/activity_main.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/mau_e/AndroidStudioProjects/Reproducir_video_audio_grupo4/app/src/main/res/layout/activity_audio.xml" value="0.2" />
         <entry key="..\:/Users/mau_e/AndroidStudioProjects/Reproducir_video_audio_grupo4/app/src/main/res/layout/activity_camara.xml" value="0.2" />
         <entry key="..\:/Users/mau_e/AndroidStudioProjects/Reproducir_video_audio_grupo4/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/mau_e/AndroidStudioProjects/Reproducir_video_audio_grupo4/app/src/main/res/layout/activity_video.xml" value="0.17" />
+        <entry key="..\:/Users/mau_e/AndroidStudioProjects/Reproducir_video_audio_grupo4/app/src/main/res/layout/activity_video.xml" value="0.13" />
       </map>
     </option>
   </component>
