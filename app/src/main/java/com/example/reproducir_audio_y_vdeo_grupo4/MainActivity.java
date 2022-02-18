@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -23,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void camara(View view) {
-        Intent Camara = new Intent(this, Camara.class);
+        Intent Camara = new Intent(this, Audio.class);
         startActivity(Camara);
     }
 }

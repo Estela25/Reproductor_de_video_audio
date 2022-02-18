@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">Reproducir_Camara_y_Vídeo_grupo4</string>
+    <string name="app_name">Reproducir_Audio_y_Vídeo_grupo4</string>
     <string name="t_video">REPRDUCTOR DE VIDEO</string>
     <string name="titulo1">VIDEO</string>
-    <string name="titulo2">FOTOGRAFIA</string>
+    <string name="parar">DETENER</string>
+    <string name="iniciar">INICIAR</string>
     <string name="regresar">REGRESAR</string>
 </resources>

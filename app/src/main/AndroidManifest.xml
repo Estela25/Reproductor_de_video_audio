@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Reproducir_Audio_y_Vídeo_grupo4">
         <activity
-            android:name=".Camara"
+            android:name=".Audio"
             android:exported="false" />
         <activity
             android:name=".Video"
